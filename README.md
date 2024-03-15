@@ -1,4 +1,4 @@
-#WARNING
-at the moment this does not work!
+at the moment this doesnt work
 
-im a dumbass so give me a min to fix it
+
+please give me a mf min to fix it
